@@ -4,8 +4,6 @@
 
 This repository contains all of the source code used in the Coursera course [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) (Johns Hopkins University).
 
-![Course Completion certificate](link)
-
 
 # Assignments :
 
@@ -16,4 +14,6 @@ This repository contains all of the source code used in the Coursera course [HTM
   - The assignment was to loop over an array of names and print out either a hello or goodbye to that name to the browser console. If the name starts with a letter j or J, print out Goodbye JSomeName. If the name starts with any other letter, print out Hello SomeName.
 * Module 5 - Coding - [Output-5](https://saraheita.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/Assignments/module5/index.html) (JavaScript)
   - In this assignment, a previously built restaurant web application needed some changes. The front page of the web app contains 3 clickable tiles: Menu, Specials, and Map. The task in this assignment was to make sure that when the user clicks on the Specials tile, the web app takes the user to a random single category menu page.
+  
+  ![Course Completion certificate](link)
 
