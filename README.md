@@ -17,7 +17,9 @@ This repository contains all of the source code used in the Coursera course [HTM
 
 
 # Certificate of Completion:
-  [Certificate](link) 
-  > **Date**
-  ![Certificate](link) 
+  >**[Certificate](link)**
+  >**Date**
+  
+  
+![Certificate](link) 
 
