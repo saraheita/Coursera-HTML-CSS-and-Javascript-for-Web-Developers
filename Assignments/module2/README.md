@@ -1,4 +1,4 @@
-# Module 2 Coding Assignment
+# Module 2 Solution
 
 Coursera Course: HTML, CSS, and Javascript for Web Developers
 
