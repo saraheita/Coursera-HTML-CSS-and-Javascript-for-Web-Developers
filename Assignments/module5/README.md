@@ -1,6 +1,6 @@
 
-# Module-5 Coding Assignment
+# Module 5 Solution
 
-Coursera course: HTML, CSS, and Javascript for Web Developers
+Coursera Course: HTML, CSS, and Javascript for Web Developers
 
 # To see the output [CLICK HERE](https://saraheita.github.io/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/Assignments/module5/index.html)
