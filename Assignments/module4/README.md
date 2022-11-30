@@ -1,4 +1,4 @@
-# Module 4 Assignment Solution
+# Module 4 Solution
 
 Coursera Course: HTML, CSS, and Javascript for Web Developers
 
