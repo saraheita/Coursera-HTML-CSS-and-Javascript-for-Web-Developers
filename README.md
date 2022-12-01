@@ -17,9 +17,9 @@ This repository contains all of the source code used in the Coursera course [HTM
 
 
 # Certificate of Completion:
-  >**[Certificate](link)**    
-  >**Date**
+  >**[Certificate Verification](https://www.coursera.org/account/accomplishments/verify/YWGDDKFXFVYG)**    
+  >**Completed: December 2022**
   
   
-![Certificate](link) 
+![Certificate](https://github.com/saraheita/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/blob/main/Certificate.png) 
 
